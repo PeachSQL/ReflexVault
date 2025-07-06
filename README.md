@@ -1,6 +1,6 @@
 # ReflexVault™ - Autonomous DeFi Engine
 
-[![ReflexVault™ Banner]https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?
+![ReflexVault™ Banner](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 
 ## Autonomous DeFi Innovation
