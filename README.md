@@ -15,17 +15,17 @@
 
 ### The Problem We Solve
 Traditional DeFi platforms rely heavily on:
-- ❌ Off-chain oracles (centralized failure points)
-- ❌ Random number generators (manipulation vectors)
-- ❌ Human-triggered events (trust dependencies)
-- ❌ External schedulers (infrastructure risks)
+-  Off-chain oracles (centralized failure points)
+-  Random number generators (manipulation vectors)
+-  Human-triggered events (trust dependencies)
+-  External schedulers (infrastructure risks)
 
 ### Our Solution
 ReflexVault™ eliminates these entirely by creating:
-- ✅ **Deterministic Logic**: All outcomes based on observable on-chain behavior
-- ✅ **Autonomous Execution**: Self-managing vault lifecycles
-- ✅ **Reflexive Mechanics**: User behavior directly influences vault parameters
-- ✅ **Zero External Dependencies**: Pure on-chain operation
+- **Deterministic Logic**: All outcomes based on observable on-chain behavior
+- **Autonomous Execution**: Self-managing vault lifecycles
+- **Reflexive Mechanics**: User behavior directly influences vault parameters
+- **Zero External Dependencies**: Pure on-chain operation
 
 ##  Key Features
 
